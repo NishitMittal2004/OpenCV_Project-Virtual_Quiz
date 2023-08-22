@@ -1,1 +1,1 @@
-# OpenCV_Project-Virtual_Quiz
+# OpenCV Project - Virtual Quiz
